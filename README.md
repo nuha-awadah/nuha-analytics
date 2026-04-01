@@ -20,8 +20,7 @@ I focus on transforming data into actionable business insights using Python, SQL
 - Identified top-performing regions and product categories
 - Provided insights to support business decision-making
 
-👉 (Add screenshots here)
-
+![Retail Dashboard](sales-dashboard-powerbi/images/overview.png)
 ---
 
 ### 🧾 Customer Analysis (SQL)
