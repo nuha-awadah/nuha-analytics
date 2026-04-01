@@ -3,8 +3,6 @@
 Welcome to my data analytics portfolio!  
 I focus on transforming data into actionable business insights using Python, SQL, and Power BI.
 
----
-
 ## 🧠 Skills
 - Python (pandas, NumPy, scikit-learn)
 - SQL (MySQL, PostgreSQL)
@@ -21,7 +19,6 @@ I focus on transforming data into actionable business insights using Python, SQL
 - Provided insights to support business decision-making
 
 ![Retail Dashboard](sales-dashboard-powerbi/images/overview.png)
----
 
 ### 🧾 Customer Analysis (SQL)
 - Analysed customer purchasing behaviour using SQL queries
@@ -29,8 +26,6 @@ I focus on transforming data into actionable business insights using Python, SQL
 - Generated insights to support marketing strategies
 
 👉 (Add SQL queries and results here)
-
----
 
 ### 🐶 Pet Adoption Analysis (Python)
 - Performed EDA and built machine learning models
