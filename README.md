@@ -1,4 +1,4 @@
-# 📊 Nuha Awadah – Data Analytics Portfolio
+# Nuha Awadah – Data Analytics Portfolio
 
 Welcome to my data analytics portfolio!  
 I focus on transforming data into actionable business insights using Python, SQL, and Power BI.
@@ -13,7 +13,7 @@ I focus on transforming data into actionable business insights using Python, SQL
 
 ## 📁 Projects
 
-### 📊 Sales Dashboard (Power BI)
+### Sales Dashboard (Power BI)
 - Built an interactive dashboard analysing sales performance
 - Identified top-performing regions and product categories
 - Provided insights to support business decision-making
